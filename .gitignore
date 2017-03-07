@@ -1,0 +1,6 @@
+*.csv
+failed_ids*.txt
+log.txt
+project.lock.json
+/bin
+/obj
